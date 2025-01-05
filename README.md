@@ -5,12 +5,12 @@
  ```python
   class WhoAmI:
     user = 'Martin Almeida'
-	  current_edu = "Software Engineer"
+	current_edu = "Software Engineer"
     currently_learning = "Go"
     fun_fact = "I love sports"
 	hobbies = [
 				'Music',
-        'Sports',
+        			'Sports',
 			 	'Gaming',
 				'Documentaries'
 			]
